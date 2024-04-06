@@ -1,4 +1,4 @@
-```
+```java
 try:
   print("Type 1 to convert Celcius to Fahrenheit")
   print("Type 2 to convert Fahrenheit to Celcius")
@@ -17,5 +17,6 @@ try:
     print(f'Entered Temp: {request2}°F')
     print(f'Converted Temp: {converter2}°C')
 except Exception as e:
-  print(f"Your input is wrong! exception: {e}")```
+  print(f"Your input is wrong! exception: {e}")
+```
 
